@@ -1,5 +1,7 @@
 # Netflix-Purchase-Behavior-Sales-Performance-Dashboard-2025-
 Deliverables: https://drive.google.com/drive/folders/1BpCSLL_i0LpCeJ6EGcvFnKtNL4IlkJI4?usp=sharing
+
+
 This Power BI dashboard explores customer purchasing trends, top-performing products, regional revenue distribution, and salesperson effectiveness based on Netflix’s 2025 sales dataset.
 Designed as a unified business intelligence tool, the dashboard empowers decision-makers to evaluate who buys the most, what sells best, and which markets are revenue hubs. It's especially useful for sales leaders, demand planners, and product strategists looking to grow revenue intelligently.
 Pre-Analysis: What I Set Out to Discover
